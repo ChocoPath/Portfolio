@@ -159,6 +159,24 @@ button:focus {
   width: 2.5em !important;
 }
 
+.brand-initials {
+  font-size: 1.8rem !important;
+  font-weight: bold !important;
+  color: #c770f0 !important;
+  padding: 0.2rem 0.5rem !important;
+  border: 2px solid #c770f0 !important;
+  border-radius: 8px !important;
+  background: linear-gradient(45deg, rgba(199, 112, 240, 0.1), rgba(199, 112, 240, 0.2)) !important;
+  transition: all 0.3s ease !important;
+  text-decoration: none !important;
+}
+
+.brand-initials:hover {
+  background: linear-gradient(45deg, rgba(199, 112, 240, 0.2), rgba(199, 112, 240, 0.3)) !important;
+  transform: scale(1.05) !important;
+  box-shadow: 0 4px 15px rgba(199, 112, 240, 0.3) !important;
+}
+
 .navbar-nav .nav-link {
   color: white !important;
   padding-right: 1rem !important;
