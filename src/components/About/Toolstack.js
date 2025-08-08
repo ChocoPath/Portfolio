@@ -10,7 +10,6 @@ import {
   SiSplunk,
   SiGithub,
   SiBitbucket,
-  SiArgocd,
 } from "react-icons/si";
 
 function Toolstack() {

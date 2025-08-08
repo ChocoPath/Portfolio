@@ -177,6 +177,15 @@ button:focus {
   box-shadow: 0 4px 15px rgba(199, 112, 240, 0.3) !important;
 }
 
+.avatar-container {
+  transition: transform 0.3s ease !important;
+  cursor: pointer !important;
+}
+
+.avatar-container:hover {
+  transform: scale(1.05) rotate(2deg) !important;
+}
+
 .navbar-nav .nav-link {
   color: white !important;
   padding-right: 1rem !important;

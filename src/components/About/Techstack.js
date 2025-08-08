@@ -17,11 +17,6 @@ import {
   SiAnsible,
   SiPostgresql,
   SiDatadog,
-  SiApacheairflow,
-  SiApachespark,
-  SiApachehive,
-  SiPrometheus,
-  SiGrafana,
 } from "react-icons/si";
 
 function Techstack() {
