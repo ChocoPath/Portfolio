@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Quaye Worsley </span>
-            from <span className="purple"> Teshie, Accra - Ghana.</span>
+            from <span className="purple"> Accra, Ghana.</span>
             <br />
             I am currently a DevOps Engineer with extensive experience in cloud infrastructure and automation.
             <br />
